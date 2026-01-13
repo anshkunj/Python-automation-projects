@@ -70,10 +70,14 @@ Examples:
 ---
 
 ## 🔹 How to Use
-1. Clone the repository  
-2. Navigate to the required folder  
-3. Run the script using Python  
-4. Modify inputs as needed  
+### ⚙️ Installation 
+
+Clone the repository  
+Navigate to the required folder
+
+  
+• Run the script using Python  
+• Modify inputs as needed  
 
 Each script contains example usage inside comments.
 
