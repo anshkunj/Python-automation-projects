@@ -72,6 +72,7 @@ Examples:
 ## 🔹 How to Use
 ⚙️ Installation :  
 •Clone the repository  
+•pip install -r requirements.txt
 •Navigate to the required folder
  
 ✅ Run the script using Python  
