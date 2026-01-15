@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="PASTE_IMAGE_URL_HERE" alt="Python Automation Projects" width="1200">
+</p>
+
+<h1 align="center">Python Automation Projects</h1>
+<p align="center">Automate everyday tasks with Python scripts — learn by doing 🚀</p>
 # Python Automation Projects
 
 This repository contains my Python scripts and mini-projects focused on **automation, bug fixing, file handling, and data cleaning**.  
