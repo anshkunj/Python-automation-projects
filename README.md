@@ -17,11 +17,11 @@ All code is written with clarity, proper structure, and real-world use cases in 
 ## 🫴 What This Repository Offers
 
 The projects here demonstrate my ability to:  
-• Automate repetitive tasks  
+• Automate repetitive tasks.  
 • Handle files and data efficiently.  
 • Fix and improve buggy Python logic.  
 • Build small utilities and algorithm-based solutions.  
-• Convert scripts into usable backend services when needed
+• Convert scripts into usable backend services when needed.
 
 ---
 
