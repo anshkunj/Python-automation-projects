@@ -79,8 +79,11 @@ Examples:
 ## 🔹 How to Use
 ### ⚙️ Installation  
 •Clone the repository  
+git clone  
+https://github.com/anshkunj/python-automation-projects.git  
 •pip install -r requirements.txt  
-•Navigate to the required folder
+•Navigate to the required folder  
+cd python-automation-projects
  
 ✅ Run the script using Python  
 ✅ Modify inputs as needed  
